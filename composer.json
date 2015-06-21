@@ -1,0 +1,21 @@
+{
+  "name": "joshkosmala/silverstripe-nzregiondropdownfield",
+  "description": "A dropdown field for SilverStripe that reflects the main regions in Aotearoa New Zealand",
+  "type": "silverstripe-module",
+  "homepage": "https://github.com/joshkosmala/silverstripe-nzregiondropdownfield",
+  "keywords": ["silverstripe", "cwp", "forms", "form", "new zealand", "nz"],
+  "license": "MIT",
+  "authors": [
+    {"name": "Josh Kosmala","email": "josh@novaweb.co.nz"}
+  ],
+  "support": {
+    "issues": "https://github.com/joshkosmala/silverstripe-nzregiondropdownfield/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~3.1",
+    "silverstripe/framework": "~3.1"
+  },
+  "extra": {
+    "installer-name": "nzregiondropdownfield"
+  }
+}
