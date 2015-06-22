@@ -1,0 +1,36 @@
+NZRegionDropdownField:
+   Regions:
+      Key:
+         - Auckland
+         - Waikato
+         - BayOfPlenty
+         - Gisborne
+         - HawkesBay
+         - Taranaki
+         - Manawatu-Wanganui
+         - Wellington
+         - Nelson
+         - Marlborough
+         - WestCoast
+         - Canterbury
+         - Otago
+         - Southland
+         - ChathamIslands
+         - International
+      Options:
+         - Auckland
+         - Waikato
+         - Bay Of Plenty
+         - Gisborne
+         - Hawkes Bay
+         - Taranaki
+         - Manawatu-Wanganui
+         - Wellington
+         - Nelson
+         - Marlborough
+         - West Coast
+         - Canterbury
+         - Otago
+         - Southland
+         - Chatham Islands
+         - International
