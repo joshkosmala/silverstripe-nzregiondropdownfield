@@ -3,7 +3,7 @@ A region field for New Zealand
 
 ##Installation
 In your form:
-   NZRegionDropdownField::create('Region');
+``NZRegionDropdownField::create('Region');``
 
 ###Author
 Josh Kosmala
